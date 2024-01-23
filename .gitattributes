@@ -1,0 +1,5 @@
+/Users/anugrahmasih/Desktop/Anu/anugrahportfolio/videos/amazon.mov filter=lfs diff=lfs merge=lfs -text
+/Users/anugrahmasih/Desktop/Anu/anugrahportfolio/videos/Ironmansuit.mp4 filter=lfs diff=lfs merge=lfs -text
+/Users/anugrahmasih/Desktop/Anu/anugrahportfolio/videos/mail.mov filter=lfs diff=lfs merge=lfs -text
+/Users/anugrahmasih/Desktop/Anu/anugrahportfolio/videos/synamatic.mov filter=lfs diff=lfs merge=lfs -text
+/Users/anugrahmasih/Desktop/Anu/anugrahportfolio/videos/twitter.mov filter=lfs diff=lfs merge=lfs -text
