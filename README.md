@@ -1,4 +1,4 @@
-# Twitter with AWS 
+# Portfolio
 
 
 
@@ -9,5 +9,5 @@
 
 ##Screenshot.
 
-<img width="1324" alt="awsce2" src="https://github.com/anugrahmasih261/awstwitter/assets/65607767/e23dbb8f-e19e-4563-b425-70982ca37469">
+
 
